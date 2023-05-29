@@ -10,3 +10,7 @@ A simple co-op snake 2D game
       2. Multiplier - Gives a multiplier on the score
       3. Speed - Gives the snake a speed boost
 5. Local Multiplayer feature
+
+##Demo Video
+
+https://github.com/vishalraw07/Co-op-Snake-2D-Game/assets/25465200/ce94b2a0-8474-4c43-b5dd-5cbce2b2bf8c
