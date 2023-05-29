@@ -3,11 +3,11 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /Snake2D Game/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
+/Snake2D Game/[Tt]emp/
+/Snake2D Game/[Oo]bj/
+/Snake2D Game/[Bb]uild/
+/Snake2D Game/[Bb]uilds/
+/Snake2D Game/[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
